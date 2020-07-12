@@ -4,10 +4,9 @@
   <a href='https://www.hackerrank.com/msgrubler' target="_blank">
   <img width="800px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
-</div>
-This repository contains the HackerRank's 10 Days of Statistics Challenge's code in Python3.
+###This repository contains the HackerRank's 10 Days of Statistics Challenge's code in Python3.
 
-## [Site Link](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+[Site Link](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
 # Disclaimer: Don’t copy-paste code. Try on your  own. This Repository is only for reference.
 
