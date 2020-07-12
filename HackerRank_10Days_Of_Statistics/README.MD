@@ -21,14 +21,14 @@ Disclaimer: Don’t copy-paste code. Try on your  own. This Repository is only f
 | 2             | Basic Probability                       | Easy  |
 | 2             | More Dice                               | Easy  |
 | 3             | Compound Event Probability              | Easy  |
-| 3             | Cards of the Same Suit                  | easy  |
-| 3             | Drawing Marbles                         | easy  |
-| 4             | Binomial Distribution I                 | easy  |
-| 4             | Binomial Distribution II                | easy  |
-| 4             | Geometric Distribution I                | easy  |
-| 4             | Geometric Distribution II               | easy  |
-| 5             | Poisson Distribution I                  | easy  |
-| 5             | Poisson Distribution II                 | easy  |
+| 3             | Cards of the Same Suit                  | Easy  |
+| 3             | Drawing Marbles                         | Easy  |
+| 4             | Binomial Distribution I                 | Easy  |
+| 4             | Binomial Distribution II                | Easy  |
+| 4             | Geometric Distribution I                | Easy  |
+| 4             | Geometric Distribution II               | Easy  |
+| 5             | Poisson Distribution I                  | Easy  |
+| 5             | Poisson Distribution II                 | Easy  |
 | 5             | Normal Distribution I                   | Easy  |
 | 5             | Normal Distribution II                  | Easy  |
 | 6             | The Central Limit Theorem I             | Easy  |
