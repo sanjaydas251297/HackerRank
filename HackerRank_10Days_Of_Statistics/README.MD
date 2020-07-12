@@ -5,10 +5,11 @@
   <img width="800px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
-This repository contains the HackerRank's 10 Days of Statistics Challenge's code in Python Language.
-[Link of the site](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-[Link of the site](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-Disclaimer: Don’t copy-paste code. Try on your  own. This Repository is only for reference.
+This repository contains the HackerRank's 10 Days of Statistics Challenge's code in Python3.
+
+## [Site Link](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+
+# Disclaimer: Don’t copy-paste code. Try on your  own. This Repository is only for reference.
 
 
 | Day           | Challenge                               | Level |
@@ -41,9 +42,9 @@ Disclaimer: Don’t copy-paste code. Try on your  own. This Repository is only f
 | 9             | Multiple Linear Regression              | Medium|
 
 
-#Here’s the most efficient way to learn in this context:
-Read a piece of code.
-Understand all features of the language that are being used there.
-Understand all the features of the libraries/frameworks that are being used there.
-Learn the basics of those libraries/frameworks.
-Understand what every line does and the purpose of those libraries/frameworks in the context of that piece of code.
+# Here’s the most efficient way to learn in this context:
+### Read a piece of code.
+### Understand all features of the language that are being used there.
+### Understand all the features of the libraries/frameworks that are being used there.
+### Learn the basics of those libraries/frameworks.
+### Understand what every line does and the purpose of those libraries/frameworks in the context of that piece of code.
